@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codewithvinay-oss
-- 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning BCA 
+- 👀 I’m interested in Data Analyst 
+- 🌱 I’m currently learning MCA 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me vinaypansare2004@gmail.com
 - 😄 Pronouns: ...
